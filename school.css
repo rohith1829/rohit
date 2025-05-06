@@ -1,0 +1,99 @@
+body{
+    background-color:rgb(199, 199, 22);
+}
+.container .name{
+    
+        text-transform: uppercase;
+        font-size: 50px;
+        background-color:beige;
+        color: rgb(69, 24, 214);
+        width: fit-content ;
+        border-radius: 10px;
+        padding: 10px 50px;
+        margin-left: 205px;
+}
+.container .school-image{
+    height: 500px;
+    margin-left: 325px;
+    border: 5px red solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.container .about{
+    background-color: white;
+    font-size: 30px;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+}
+.container .para{
+    line-height: 30px;
+    padding: 10px;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.container .playarea{
+    margin-bottom: 90px;
+    background-color: white;
+    font-size: 30px;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+}
+.container .playground{
+border-radius: 25px;
+    margin-left: 102px;
+    margin-bottom: 102px;
+    height: 350px;
+    width: 350px;
+}
+.container .teachers{
+    margin-bottom: 90px;
+    background-color: white;
+    font-size: 30px;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+}
+.container .teacher{
+    border-radius: 25px;
+    margin-left: 102px;
+    margin-bottom: 102px;
+    height: 350px;
+    width: 350px;
+}
+.container .caretakers{
+    margin-bottom: 90px;
+    background-color: white;
+    font-size: 30px;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+}
+.container .caretake{
+    border-radius: 25px;
+    margin-left: 102px;
+    margin-bottom: 102px;
+    height: 350px;
+    width: 350px;
+}
+.form{
+    border: 5px double white;
+    width: fit-content;
+    padding: 5px 10px;
+}
+input{
+    
+        margin-top: none;
+       margin: 10px 50px;
+        width: 300px;
+        padding: 10px 20px;
+        text-transform: capitalize;
+}
